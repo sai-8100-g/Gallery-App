@@ -1,0 +1,7 @@
+.small-img {
+  filter: grayscale(100%);
+}
+
+.small-img:hover {
+  filter: grayscale(0%);
+}
